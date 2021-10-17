@@ -1,4 +1,7 @@
 # Welcome to The Inventory Management System 
+
+[You Can Check For Article Written by me too](https://www.geeksforgeeks.org/inventory-management-with-json-in-python/)
+
 <p align="center">
 <img src="https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png" width="600" height="400"/>
 </p>
